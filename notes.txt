@@ -1,0 +1,6 @@
+
+Reference for documentation of JS: - 
+1. https://tc39.es/ecma262/#sec-intro (This one is for standards of JavaScript)
+2. mdn (JavaScript) -
+link: -https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
