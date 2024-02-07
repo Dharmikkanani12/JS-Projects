@@ -40,3 +40,32 @@ const myFunction = function(){
 }
 
 //https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++
+//memory in js
+// Stack {Primitive}, Heap {Non-primitive}
+
+/*Stack memory*/
+let myYoutubename = "dharmikkananicode"
+let anothername = myYoutubename
+anothername = "chai aur code"
+
+/*Heap memory*/
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+   username: "admin",
+   password: "admin",
+   email: "admin@google.com"
+}
+
+let userTwo = userOne
+
+userTwo.password = "9276"
+
+console.log(userOne.password);
+console.log(userTwo.password);
