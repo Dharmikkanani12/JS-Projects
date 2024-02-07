@@ -4,3 +4,4 @@ Reference for documentation of JS: -
 2. mdn (JavaScript) -
 link: -https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+Recommendation to do master in JS, you will need to learn objects, webevents or browser events of browser. 
